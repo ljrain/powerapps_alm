@@ -23,3 +23,7 @@ Test environment used for user acceptance testing.
 ### prod
 Production envrionment, only publish managed solutions and used for production access to the system.
 
+## Solution
+The solution that will be developed with this project is a time management solution built on top of Dataverse. This will start basic and expand with additional features of the Power Platform while showing the uses of ALM with GitHub Actions and branching.
+
+
