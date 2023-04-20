@@ -23,7 +23,31 @@ Test environment used for user acceptance testing.
 ### prod
 Production envrionment, only publish managed solutions and used for production access to the system.
 
+## GitHub Workflows
+
+### build-deploy-solution.yml
+
+### convert-unmanaged-to-managed.yml
+
+### delete-and-import-unmanaged-solution.yml
+
+### delete-unmanaged-solution-and-components-from-environment.yml
+
+### deploy-tagged-solution-to-environment.yml
+
+### determine-solution-build-deploy.yml
+
+### export-unpack-commit-solution.yml
+
+### import-unmanaged-solution.yml
+
+### workflows-pr.yml
+
+
+
+
+
 ## Solution
-The solution that will be developed with this project is a time management solution built on top of Dataverse. This will start basic and expand with additional features of the Power Platform while showing the uses of ALM with GitHub Actions and branching.
+
 
 
